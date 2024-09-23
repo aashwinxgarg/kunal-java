@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array-ArrayList/Array-ArrayList.iml" filepath="$PROJECT_DIR$/Array-ArrayList/Array-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array-ArrayList/Arrays-ArrayList.iml" filepath="$PROJECT_DIR$/Array-ArrayList/Arrays-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals-Loops/Conditionals-Loops.iml" filepath="$PROJECT_DIR$/Conditionals-Loops/Conditionals-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First-Java-Program/First-Java-Program.iml" filepath="$PROJECT_DIR$/First-Java-Program/First-Java-Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Functions-Methods/Functions-Methods.iml" filepath="$PROJECT_DIR$/Functions-Methods/Functions-Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kunal.iml" filepath="$PROJECT_DIR$/Kunal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch-NestedCase/Switch-NestedCase.iml" filepath="$PROJECT_DIR$/Switch-NestedCase/Switch-NestedCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary-search-algorithm/binary-search-algorithm.iml" filepath="$PROJECT_DIR$/binary-search-algorithm/binary-search-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binary-search-interview-questions/binary-search-interview-questions.iml" filepath="$PROJECT_DIR$/binary-search-interview-questions/binary-search-interview-questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linear-search-algorithm/linear-search-algorithm.iml" filepath="$PROJECT_DIR$/linear-search-algorithm/linear-search-algorithm.iml" />
+    </modules>
+  </component>
+</project>
