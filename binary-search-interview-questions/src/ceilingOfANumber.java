@@ -9,6 +9,7 @@ public class ceilingOfANumber {
         int e = arr.length-1;
 
 
+
         while(s<=e) {
             int mid = s+(e-s)/2;
             if(arr[mid]==target) {
